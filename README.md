@@ -1,6 +1,8 @@
 # MOTOR_DRIVES
 BRUSH LESS_HIGH CURRENT_DC THREE PHASE_BRUSHED DRIVERS
 
+### brushless three phase designs ref notes
+
 ## 4.4 V to 30 V, 15 A, High Performance Brushless DC Drone Propeller Controller Reference Design
 ti.com/lit/df/tidrhg6/tidrhg6.pdf?ts=1600705158295&ref_url=https%253A%252F%252Fwww.ti.com%252Fsolution%252Fdrone-propeller-esc
 
@@ -12,3 +14,4 @@ https://www.ti.com/lit/ug/tiducf1/tiducf1.pdf?ts=1600705281027&ref_url=https%253
 
 ## Basic ESC tuto
 https://www.youtube.com/playlist?list=PLsR1AO4QH1AxYrKPmh2e3LDeTyNWdyEXb
+https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
