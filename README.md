@@ -17,7 +17,7 @@ https://www.youtube.com/playlist?list=PLsR1AO4QH1AxYrKPmh2e3LDeTyNWdyEXb
 https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
 
 
-### brushless dc motor designs ref notes
+### brushed dc motor designs ref notes
 
 ## DRV8871 3.6-A Brushed DC Motor Driver With Internal Current Sense (PWM Control)
 https://www.ti.com/lit/ds/symlink/drv8871.pdf?ts=1600705555416&ref_url=https%253A%252F%252Fwww.google.com%252F
